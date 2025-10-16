@@ -1,4 +1,6 @@
-**Badaboom est en gros un répertoire de tout un n'importe quoi.**
+# Bienvenue sur mon Wiki
+
+**Badaboom, répertoire des choses que je trouve sympathiques et utiles.**
 - Bon plan
 - Bot de jeux gratuit de la semaine
 - Crack en tout genre
@@ -8,3 +10,14 @@
 - Cybersécurité
 - Suggestion de film
 - Sites random (un peu de tout)
+- Bref, tout ce qu'un humain a besoin
+
+## 📚 Catégories
+
+- [Projet](Projet)
+- [Sites favoris](sites)
+- [Outils](outils)
+
+## Dernières additions
+
+- [Projet](Projet)
