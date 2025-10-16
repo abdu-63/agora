@@ -1,3 +1,10 @@
+---
+layout: default
+title: CinéLyon
+parent: Projet
+nav_order: 1
+---
+
 # CinéLyon
 **Objectif** : Site répertoriant les sorties des prochains films de tous les cinémas de Lyon. Affichant date, lieux, poster (métadonnée du film)
 
