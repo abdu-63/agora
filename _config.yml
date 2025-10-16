@@ -1,6 +1,6 @@
 title: Badaboom
 description: Je partage des choses que je trouve sympathiques et utiles !
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: https://abdu-63.github.io
 baseurl: /badaboom
 
