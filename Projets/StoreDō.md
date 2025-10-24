@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CinéLyon
+title: StoreDō
 parent: Projet
 nav_order: 1
 ---
