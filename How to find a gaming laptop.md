@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to find a gaming laptop
-nav_order: 3
+nav_order: 2
 ---
 
 # How to find a gaming laptop
