@@ -15,4 +15,13 @@ plugins:
 collections:
   projets:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:projets/
+
+# Just the Docs affiche la collection
+just_the_docs:
+  collections:
+    projets:
+      # Nom à afficher dans la navigation
+      name: projets
+      # (Optionnel) Mettre un ordre de navigation
+      # nav_order: 2
