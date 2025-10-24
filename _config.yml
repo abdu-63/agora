@@ -1,6 +1,6 @@
 title: Badaboom
 description: Je partage des choses que je trouve sympathiques et utiles !
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@0.6.3
 url: https://abdu-63.github.io
 baseurl: /badaboom
 
@@ -10,11 +10,12 @@ search_enabled: true
 # Configuration des collections pour la navigation
 collections:
   projets:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 just_the_docs:
   collections:
     projets:
       name: Projets
+      nav_fold: false
       nav_exclude: false
