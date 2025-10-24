@@ -15,7 +15,7 @@ plugins:
 collections:
   projets:
     output: true
-    permalink: /:collection/:projets/
+    permalink: /:collection/:path/
 
 # Just the Docs affiche la collection
 just_the_docs:
