@@ -17,7 +17,7 @@ just_the_docs:
   collections:
     projets:
       name: Projets
-      nav_fold: false
+      nav_fold: true
       nav_exclude: false
   # Configuration pour garder la navigation ouverte par défaut
-  nav_fold: false
+  nav_fold: true
