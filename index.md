@@ -14,10 +14,10 @@
 
 ## 📚 Catégories
 
-- [Projet](Projet)
+- [Projets](Projets)
 - [Sites favoris](sites)
 - [Outils](outils)
 
 ## Dernières additions
 
-- [Projet](Projet)
+- [Projets](Projets)

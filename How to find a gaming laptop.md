@@ -1,3 +1,11 @@
+---
+layout: default
+title: How to find a gaming laptop
+parent: Catégorie principale
+nav_order: 1
+---
+
+# How to find a gaming laptop
 - [[#1. Processeur]]
 - [[#2. Carte graphique]]
 - [[#3. Ram]]
@@ -68,4 +76,4 @@ https://www.laptopspirit.fr/comparateur/Pc-portable/40534/Hp,Victus-gaming-16-r0
 
 A voir 
 https://www.laptopspirit.fr/comparateur/
-![[Capture d’écran 2025-08-20 à 19.40.08.png|108x201]]
+![[Capture d'écran 2025-08-20 à 19.40.08.png|108x201]]
