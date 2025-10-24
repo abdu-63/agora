@@ -1,8 +1,8 @@
 ---
 layout: default
 title: StoreDō
-parent: Projet
-nav_order: 1
+parent: Projets
+nav_order: 2
 ---
 
 # StoreDō

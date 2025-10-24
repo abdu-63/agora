@@ -1,3 +1,9 @@
+---
+layout: default
+title: Accueil
+nav_order: 1
+---
+
 # Bienvenue sur mon Wiki
 
 **Badaboom, répertoire des choses que je trouve sympathiques et utiles.**
