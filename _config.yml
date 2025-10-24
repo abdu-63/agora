@@ -11,12 +11,6 @@ search_enabled: true
 plugins:
   - jekyll-remote-theme
 
-# Configuration des collections pour la navigation
-collections:
-  projets:
-    output: true
-    permalink: /:collection/:path/
-
 just_the_docs:
   collections:
     projets:
