@@ -1,3 +1,10 @@
+---
+layout: default
+title: StoreDō
+nav_order: 2
+has_children: true
+---
+
 # StoreDō
 ## Store multi‑plateforme (iOS, Android, macOS, Windows)
 StoreDō est un store multi‑plateforme pour (iOS, Android, macOS, Windows) proposant des applications modifiées (tweaked) et d’autres outils provenant du Jailbreak iOS
