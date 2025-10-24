@@ -12,18 +12,3 @@ search_enabled: true
 # Plugins nécessaires pour GitHub Pages
 plugins:
   - jekyll-remote-theme
-
-# Configuration des collections pour la navigation
-collections:
-  projets:
-    output: true
-    permalink: /:collection/:path/
-
-# Just the Docs affiche la collection
-just_the_docs:
-  collections:
-    projets:
-      # Nom à afficher dans la navigation
-      name: projets
-      # (Optionnel) Mettre un ordre de navigation
-      # nav_order: 2
