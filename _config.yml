@@ -10,7 +10,7 @@ search_enabled: true
 # Configuration des collections pour la navigation
 collections:
   projets:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 just_the_docs:
