@@ -1,3 +1,10 @@
+---
+layout: default
+title: Github git
+parent: Tutoriels
+nav_order: 2
+---
+
 # Github git
 ## Télécharger le repo sur son disque
 1. Aller sur la page du repo
