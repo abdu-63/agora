@@ -3,6 +3,7 @@ layout: default
 title: StoreDō
 parent: Projets
 nav_order: 2
+collection: projets
 ---
 
 # StoreDō

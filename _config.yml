@@ -6,3 +6,15 @@ baseurl: /badaboom
 
 # Active la recherche
 search_enabled: true
+
+# Configuration des collections pour la navigation
+collections:
+  projets:
+    output: true
+    permalink: /:collection/:path/
+
+just_the_docs:
+  collections:
+    projets:
+      name: Projets
+      nav_fold: true
