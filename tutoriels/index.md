@@ -3,7 +3,7 @@ layout: default
 title: Tutoriels
 nav_order: 1
 has_children: true
-permalink: /mon-dossier/
+permalink: /tutoriels/
 ---
 
 # Tutoriels

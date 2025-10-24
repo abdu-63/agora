@@ -3,7 +3,7 @@ layout: default
 title: Projets
 nav_order: 1
 has_children: true
-permalink: /mon-dossier/
+permalink: /projets/
 ---
 
 # Projets
