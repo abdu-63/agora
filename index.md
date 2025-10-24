@@ -4,9 +4,9 @@ title: Accueil
 nav_order: 1
 ---
 
-# Bienvenue sur mon Wiki
+# Bienvenue sur Agora
 
-**Badaboom, répertoire des choses que je trouve sympathiques et utiles.**
+**Agora, répertoire des choses que je trouve sympathiques et utiles.**
 - Bon plan
 - Bot de jeux gratuit de la semaine
 - Crack en tout genre
