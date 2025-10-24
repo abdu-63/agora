@@ -12,11 +12,3 @@ search_enabled: true
 # Plugins nécessaires pour GitHub Pages
 plugins:
   - jekyll-remote-theme
-
-just_the_docs:
-  collections:
-    projets: # ou le nom de votre collection
-      name: Projets
-      # Assurez-vous que la ligne ci-dessous est absente
-      # ou mise à 'false'.
-      nav_fold: false
