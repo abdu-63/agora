@@ -3,7 +3,6 @@ layout: default
 title: CinéLyon
 parent: Projets
 nav_order: 1
-collection: projets
 ---
 
 # CinéLyon
