@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AdBlock iPhone
-nav_order: 4
+parent: Outils
+nav_order: 3
 ---
 
 # Blocker les pubs sur iPhone
