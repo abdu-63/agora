@@ -6,24 +6,25 @@ nav_order: 1
 
 # Bienvenue sur Agora
 
-**Agora, répertoire des choses que je trouve sympathiques et utiles.**
-- Bon plan
-- Bot de jeux gratuit de la semaine
-- Crack en tout genre
-- Bidouillage
-- Jailbreak
-- Outils
-- Cybersécurité
-- Suggestion de film
-- Sites random (un peu de tout)
-- Bref, tout ce qu'un humain a besoin
+**Agora est votre répertoire central pour découvrir des ressources utiles et intéressantes.**
 
-## 📚 Catégories
+## 📚 Catégories principales
 
-- [Projets](projets)
-- [Sites favoris](sites)
-- [Outils](outils)
+- [📂 Projets](projets) - Découvrez nos projets en cours et réalisés
+- [🛠 Outils](outils) - Une collection d'outils pratiques et utiles
+- [💻 Codage](outils/codage) - Ressources et guides de programmation
+- [🔒 Cybersécurité](outils/cybersecurite) - Guides et outils de sécurité
+- [🤖 Intelligence Artificielle](outils/ia) - Ressources sur l'IA et ses applications
 
-## Dernières additions
+## 🎯 Points forts
 
-- [Projets](projets)
+- Solutions pratiques et tutoriels détaillés
+- Ressources techniques et guides pas à pas
+- Outils et astuces pour améliorer votre productivité
+- Mises à jour régulières avec du nouveau contenu
+
+## 🆕 Dernières additions
+
+- [Intelligence Artificielle Personnalisée](outils/ia/IA%20Personnalisé.md)
+- [Tutoriel Git](tutoriels/Tuto%20git.md)
+- [Visual Studio Code](outils/codage/Visual%20Studio%20Code.md)
