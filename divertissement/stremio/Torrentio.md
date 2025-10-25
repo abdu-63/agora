@@ -3,19 +3,19 @@ layout: default
 title: Torrentio
 parent: Divertissement
 grand_parent: Stremio
-nav_order: 2
+nav_order: 4
 ---
 
 # Addon Torrentio pour les films et séries
 **La démo**
 <video controls width="25%">
-  <source src="{{ '/assets/videos/démo_torrentio' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/videos/démo_torrentio.mp4' | relative_url }}" type="video/mp4">
   Désolé, votre navigateur ne supporte pas les vidéos intégrées.
 </video>
 
 **l'installation**
 <video controls width="25%">
-  <source src="{{ '/assets/videos/instalation_torrentio' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/videos/instalation_torrentio.mp4' | relative_url }}" type="video/mp4">
   Désolé, votre navigateur ne supporte pas les vidéos intégrées.
 </video>
 

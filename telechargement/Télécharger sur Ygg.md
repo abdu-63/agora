@@ -20,11 +20,7 @@ mdp: HsEzDkc2Yqz7AAwn
 ## Méthode 2: Augmenter le ratio (recommandé)
 ### Requis
 - Compte Ygg toujours actif (voir en haut de la page du site)
-- Installer RatioMaster 1.9.1 <a href="{{ '/assets/fichiers/RatioMaster-1.9.1.zip' | relative_url }}">Téléchargez-le ici</a>.</p>
-<object data="{{ '/assets/fichiers/RatioMaster-1.9.1.zip' | relative_url }}" type="application/pdf" width="100%" height="800px">
-    <p>Veuillez télécharger le fichiers. 
-    <a href="{{ '/assets/fichiers/RatioMaster-1.9.1.zip' | relative_url }}">Téléchargez-le ici</a>.</p>
-</object>
+- Installer RatioMaster 1.9.1 <a href="{{ '/assets/fichiers/RatioMaster-1.9.1.zip' | relative_url }}">Téléchargez-le ici</a>
 
 ### Étapes
 1. Télécharger un torrent (avec beaucoup de seeders de préférence)
