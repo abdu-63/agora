@@ -2,6 +2,7 @@
 layout: default
 title: Émulateur
 parent: Crack
+grand_parent: Jeux
 nav_order: 3
 ---
 

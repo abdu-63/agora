@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Codage
+parent: Outils
 nav_order: 6
 has_children: true
 permalink: /outils/codage
