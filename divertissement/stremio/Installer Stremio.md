@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Installer Stremio
-parent: Divertissement
-grand_parent: Stremio
+parent: Stremio
+grand_parent: Divertissement
 nav_order: 3
 ---
 
