@@ -2,7 +2,7 @@
 layout: default
 title: Sites de Streaming
 parent: Divertissement
-nav_order: 2
+nav_order: 1
 ---
 
 # Sites de Streaming
