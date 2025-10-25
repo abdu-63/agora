@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Téléchargements
+title: Téléchargement
 parent: Téléchargements
 nav_order: 1
 ---
