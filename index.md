@@ -20,10 +20,10 @@ nav_order: 1
 
 ## 📚 Catégories
 
-- [Projets](_projets)
+- [Projets](projets)
 - [Sites favoris](sites)
 - [Outils](outils)
 
 ## Dernières additions
 
-- [Projets](_projets)
+- [Projets](projets)

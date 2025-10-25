@@ -1,0 +1,19 @@
+---
+layout: default
+title: AdBlock iPhone
+nav_order: 4
+---
+
+# Blocker les pubs sur iPhone
+
+Activer adblock (profile)
+<video controls width="100%">
+  <source src="{{ '/assets/videos/adblock_ios.mp4' | relative_url }}" type="video/mp4">
+  Désolé, votre navigateur ne supporte pas les vidéos intégrées.
+</video>
+
+Désactiver adblock
+<video controls width="100%">
+  <source src="{{ '/assets/videos/desactiver_adblock_ios.mp4' | relative_url }}" type="video/mp4">
+  Désolé, votre navigateur ne supporte pas les vidéos intégrées.
+</video>
