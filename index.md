@@ -12,8 +12,8 @@ nav_order: 1
 
 - [📂 Projets](projets) - Découvrez nos projets en cours et réalisés
 - [🛠 Outils](outils) - Une collection d'outils pratiques et utiles
-- [💻 Codage](outils/codage) - Ressources et guides de programmation
-- [🔒 Cybersécurité](outils/cybersecurite) - Guides et outils de sécurité
+- [🔗 Téléchargements](telechargement) - Téléchargement sur internet
+- [📚 École](ecole) - Formations et certifications
 - [🤖 Intelligence Artificielle](outils/ia) - Ressources sur l'IA et ses applications
 
 ## 🎯 Points forts
@@ -27,7 +27,6 @@ nav_order: 1
 
 - [Intelligence Artificielle Personnalisée](outils/ia/IA%20Personnalisé.md)
 - [Tutoriel Git](tutoriels/Tuto%20git.md)
-- [Visual Studio Code](outils/codage/Visual%20Studio%20Code.md)
 
 ## 📍 Roadmap des futurs ajouts
 
