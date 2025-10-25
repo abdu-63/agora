@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Formations
-parent: Téléchargements
+parent: École
 nav_order: 1
 ---
 

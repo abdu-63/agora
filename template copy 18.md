@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 
-parent: Crack
-grand_parent: Jeux
+parent: Divertissement
+grand_parent: Stremio
 nav_order: 2
 ---
 

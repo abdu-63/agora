@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Certifications
-parent: Téléchargements
+parent: École
 nav_order: 2
 ---
 
