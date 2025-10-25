@@ -2,7 +2,6 @@
 layout: default
 title: Émulateur
 parent: Jeux
-grand_parent: Jeux
 nav_order: 3
 ---
 
