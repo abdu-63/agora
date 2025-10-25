@@ -2,7 +2,7 @@
 layout: default
 title: Télécharger sur Ygg
 parent: Téléchargements
-nav_order: 2
+nav_order: 3
 ---
 
 # Télécharger sur [Ygg](https://www.yggtorrent.top/)
