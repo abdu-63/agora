@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stremio
-parent: Stremio
+parent: Divertissement
 nav_order: 1
 has_children: true
 permalink: /divertissement/stremio
