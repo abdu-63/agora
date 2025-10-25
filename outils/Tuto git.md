@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Github git
-parent: Tutoriels
-nav_order: 2
+parent: Outils
+nav_order: 15
 ---
 
 # Github git
