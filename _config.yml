@@ -12,3 +12,6 @@ search_enabled: true
 # Plugins nécessaires pour GitHub Pages
 plugins:
   - jekyll-remote-theme
+
+just_the_docs:
+  color_scheme: dark
