@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Shopify
-nav_order: 6
+nav_order: 1
 has_children: true
-permalink: /shopify/
+parent: Shopify
+permalink: /professionel/shopify/
 ---
 
 # Projets
-
+bonjour
 
 ## Mes projets
-
+bonjour

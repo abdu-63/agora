@@ -2,7 +2,8 @@
 layout: default
 title: Applications
 parent: Shopify
-nav_order: 1
+grand_parent: Professionnel
+nav_order: 2
 ---
 
 # Applications utiles
