@@ -2,6 +2,7 @@
 layout: default
 title: Cloner puce NFC
 parent: Cybersécurité
+grand_parent: Outils
 nav_order: 2
 ---
 
