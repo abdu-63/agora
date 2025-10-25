@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Téléchargements
-nav_order: 4
+title: École
+nav_order: 5
 has_children: true
-permalink: /telechargement/
+permalink: /ecole/
 ---
 
 # Projets

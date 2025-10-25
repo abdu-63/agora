@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Téléchargements
-nav_order: 4
+title: Shopify
+nav_order: 6
 has_children: true
-permalink: /telechargement/
+permalink: /shopify/
 ---
 
 # Projets
