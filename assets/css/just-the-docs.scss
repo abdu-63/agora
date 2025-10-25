@@ -1,1 +1,10 @@
 @import 'just-the-docs/just-the-docs';
+
+// Force l'application de la police Cinzel
+body {
+  font-family: 'Cinzel', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', serif !important;
+}
