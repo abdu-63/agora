@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Hacking
-parent: Outils
-nav_order: 5
+title: Codage
+nav_order: 6
 has_children: true
-permalink: /outils/hacking
+permalink: /outils/codage
 ---
 
 # Projets

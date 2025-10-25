@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Hacking
-parent: Outils
-nav_order: 5
+title: Apps Windows
+nav_order: 9
 has_children: true
-permalink: /outils/hacking
+permalink: /outils/app_windows
 ---
 
 # Projets

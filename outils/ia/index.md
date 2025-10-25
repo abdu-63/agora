@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Cybersécurité
+title: IA
 parent: Outils
-nav_order: 4
+nav_order: 7
 has_children: true
-permalink: /outils/cybersecurite
+permalink: /outils/ia
 ---
 
 # Projets
