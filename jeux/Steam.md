@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Steam
-parent: Crack
-grand_parent: Jeux
+parent: Jeux
 nav_order: 5
 ---
 
