@@ -64,6 +64,7 @@ Nous travaillons constamment à l'enrichissement de ce répertoire. Voici un ape
 -   Business TikTok
 -   Tutoriels n8n avec MCP
 -   Maintenir une page active 24/7 (pour les plans gratuits Render)
+-   Tuto SideStore complet
 
 ---
 
