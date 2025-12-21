@@ -1,4 +1,32 @@
+<div align="center">
+
 # Agora
+<i>Votre répertoire centralisé de ressources utiles et de guides pratiques</i>
+
+<p align="center">
+  <a href="https://github.com/abdu-63/badaboom">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github">
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-Guides-3776AB?logo=python&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Cybersécurité" src="https://img.shields.io/badge/Cybersécurité-🔒-red">
+  </a>
+  <a href="#">
+    <img alt="IA" src="https://img.shields.io/badge/Intelligence_Artificielle-🤖-blueviolet">
+  </a>
+  <a href="#">
+    <img alt="Gaming" src="https://img.shields.io/badge/Gaming-🎮-green">
+  </a>
+  <a href="#">
+    <img alt="Hacking Éthique" src="https://img.shields.io/badge/Hacking_Éthique-🔓-orange">
+  </a>
+  <a href="#">
+    <img alt="Divertissement" src="https://img.shields.io/badge/Divertissement-📺-blue">
+  </a>
+</p>
+</div>
 
 Bienvenue sur **Agora**, votre répertoire centralisé de ressources utiles et de guides pratiques. Ce projet vise à compiler et partager des informations, des outils et des tutoriels couvrant un large éventail de sujets, allant du développement personnel à la cybersécurité, en passant par le divertissement et l'optimisation de systèmes.
 
