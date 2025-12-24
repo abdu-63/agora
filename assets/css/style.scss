@@ -1,0 +1,12 @@
+/* Cacher la barre de scroll pour Chrome, Safari et Opera */
+.side-bar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Cacher la barre de scroll pour IE, Edge et Firefox */
+.side-bar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
