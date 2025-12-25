@@ -7,11 +7,11 @@ nav_order: 1
 
 # Cours langage de programmation C
 **Un guide complet pour débuter en programmation C**
-***
+
 ## Introduction au langage C
 
 > Le langage C est un langage de programmation créé en 1972 par Dennis Ritchie. C'est un langage de bas niveau très performant, encore largement utilisé aujourd'hui pour le développement système, les systèmes embarqués, et comme base d'apprentissage de la programmation.
-***
+
 ## 1. Structure d'un programme C
 
 Tout programme C suit une structure de base :
@@ -28,6 +28,7 @@ int main() {
 - `int main()` : fonction principale, point d'entrée du programme
 - `printf()` : fonction pour afficher du texte
 - `return 0` : indique que le programme s'est terminé correctement
+
 ***
 ## 2. Les variables et types de données
 ### Types de base
@@ -223,6 +224,7 @@ printf("Valeur pointée par ptr: %d\n", *ptr);
 
 Pour accéder à une valeur pointé sur une structure, on ne met pas ex:
 `*p.element` mais on met `*p -> element`
+
 ***
 ## 9. Les structures
 
