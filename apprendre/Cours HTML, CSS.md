@@ -43,7 +43,7 @@ nav_order: 3
 	exemple : `‹p class="my-group"›This is another paragraph. ‹/p›`<br>
 
 ## Tag 
-`<center>` : centrer un texte
+`<center>` : centrer un texte<br>
 `<br>` : saut de lignes<br>
 `<hr>` : ligne pour séparer<br>
 `<pre>` : afficher comme écrit dans le code (afficher du code)<br>
@@ -111,7 +111,7 @@ exemple :
 " : `&quot;`<br>
 ' : `&apos;`<br>
 (Espace) : `&nbsp;`<br>
-– : `&ndash;`
+– : `&ndash;`<br>
 — : `&mdash;`<br>
 © : `&copy;`<br>
 ® : `&reg;`<br>
