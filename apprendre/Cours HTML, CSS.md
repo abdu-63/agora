@@ -131,14 +131,14 @@ Changer le style d'un `<span>` et `<div>`<br>
 
 Changer le style de la class "my-group"<br>
 exemple : 
-```
+```css
 .my-group {
 background-color: red;
 }
 ```
 
 Sélectionner une balise spécifique pour lui ajouter un style<br>
-```
+```css
 #myHeader {
 	background-color: lightblue;
 	color: black;
