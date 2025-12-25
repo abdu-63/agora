@@ -13,7 +13,6 @@ StoreDō est un store multi‑plateforme pour (iOS, Android, macOS, Windows) pro
 - Site de [StoreDō](https://abdu-63.github.io/storedo/)
 - Repo [Github](https://github.com/abdu-63/storedo) du projet
 - Hébergé sur [Github Pages](https://pages.github.com/)
-- Temps passé : ~14h45
 
 ### Fonctionnalités détaillées
 - Barre de recherche
@@ -22,7 +21,7 @@ StoreDō est un store multi‑plateforme pour (iOS, Android, macOS, Windows) pro
 - Mode sombre
 - Pages par plateforme
 
-### :arrow_forward: Démarrer en local
+### Démarrer en local
 
 Option rapide (macOS):
 ```bash

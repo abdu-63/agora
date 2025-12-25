@@ -23,3 +23,6 @@ nav_order: 2
 ### Roms Pacher (pour roms hack)
 - [Romhacking](https://www.romhacking.net/patch/)
 - [Marcrobledo](https://www.marcrobledo.com/RomPatcher.js/)
+- [Floating IPS](https://www.smwcentral.net/?a=details&id=11474&p=section) (Flips) v1.31
+- [New Super Ultimate Injector 3DS](https://www.gamebrew.org/wiki/New_Super_Ultimate_Injector_3DS)
+- [NSMBe5](https://nsmbhd.net/thread/6047-nouvelle-traduction-fran-aise-pour-nsmbe5-french-v2/)

@@ -16,5 +16,7 @@ nav_order: 15
 2. Ajouter les fichiers avec la commande `git add .` (le . veut dire tous les fichiers)
 3. Envoyer un "commit" `git commit -m "Ajout de mes nouveaux fichiers"` (décrire le nom du commit entre les guillemets)
 4. Envoyer les fichiers avec `git push`
+## Supprimer un fichier
+`git rm nom_du_fichier`
 ## Autres
 - Retirer les fichiers DS_Store `git rm --cached "**/.DS_Store"`

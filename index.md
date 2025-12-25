@@ -90,3 +90,4 @@ github (outils etc..)
 - [ ] iptv perso (initial d)
 - [ ] tuto n8n avec mcp 
 - [ ] garder actif une page h24 (utile pour plan gratuit render) https://cron-job.org/
+- [ ] capture the flag (cours cyber)
