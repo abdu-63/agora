@@ -2,7 +2,6 @@
 layout: default
 title: Kodi
 parent: Divertissement
-grand_parent: Stremio
 nav_order: 3
 ---
 
