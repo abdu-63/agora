@@ -25,8 +25,8 @@ nav_order: 1
 
 ## 🆕 Dernières additions
 
-- [Intelligence Artificielle Personnalisée](outils/ia/IA%20Personnalisé.md)
-- [Tutoriel Git](tutoriels/Tuto%20git.md)
+- [Intelligence Artificielle Personnalisée](outils/ia/IA Personnalisé.html)
+- [Tutoriel Git](tutoriels/Tuto%20git.html)
 
 ## 📍 Roadmap des futurs ajouts
 
