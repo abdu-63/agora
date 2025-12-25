@@ -7,7 +7,7 @@ nav_order: 3
 
 # Télécharger sur [Ygg](https://www.yggtorrent.top/)
 ## Avec mon compte (simple)
-id: Footballeur1234
+id: Footballeur1234 <br>
 mdp: HsEzDkc2Yqz7AAwn 
 
 ## Méthode 1: Supprimer le traceur (simple)

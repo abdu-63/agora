@@ -7,5 +7,5 @@ nav_order: 2
 ---
 
 # ARMGDDN Browser
-Télécharger des jeux rapidement : https://github.com/KaladinDMP/AGBrowser
+Télécharger des jeux rapidement : [AGBrowser](https://github.com/KaladinDMP/AGBrowser) <br>
 ATTENTION JE N'AI PAS ESSAYER ! DONC PEUX PAS DIRE SI 100% SAFE

@@ -3,7 +3,7 @@ layout: default
 title: Stremio c'est quoi ?
 parent: Stremio
 grand_parent: Divertissement
-nav_order: 2
+nav_order: 3
 ---
 
 # Stremio c'est quoi ?

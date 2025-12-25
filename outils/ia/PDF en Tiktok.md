@@ -7,4 +7,4 @@ nav_order: 2
 ---
 
 # PDF en Tiktok
-https://pdftobrainrot.org/
+[PdfToBrainrot](https://pdftobrainrot.org/)

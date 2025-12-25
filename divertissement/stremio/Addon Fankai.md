@@ -3,7 +3,7 @@ layout: default
 title: Addon Fankai
 parent: Stremio
 grand_parent: Divertissement
-nav_order: 5
+nav_order: 6
 ---
 
 # Addon Fankai pour les Kai d'animés

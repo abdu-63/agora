@@ -7,4 +7,4 @@ nav_order: 2
 ---
 
 # Supprimer des applis proprement
-https://geekuninstaller.com/
+[GeekUninstaller](https://geekuninstaller.com/)

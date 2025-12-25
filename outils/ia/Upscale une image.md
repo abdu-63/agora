@@ -7,4 +7,4 @@ nav_order: 3
 ---
 
 # Upscale une image
-https://upscayl.org/download
+[Upscayl](https://upscayl.org/download)

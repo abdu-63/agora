@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Infos
 - Site de [CinéLyon](https://cinelyon.onrender.com/)
-- Repo [Github](https://github.com/PatateAbdu/cinelyon) du projet
+- Repo [Github](https://github.com/abdu-63/cinelyon) du projet
 - Hébergé sur [Render](https://render.com/)
 - Temps passé : +41h
 

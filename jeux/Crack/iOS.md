@@ -9,7 +9,7 @@ nav_order: 5
 # iOS
 **Telegram**
 *Android*
-- [Magic Brawl | Retro Brawl](https://t.me/magics_servers)
+- [Magic Brawl Retro Brawl](https://t.me/magics_servers)
   - [English](https://t.me/magics_en)
 - [EspacioAPK](https://t.me/espacioapk)
 - [GM Brawl](https://t.me/gmbrawl) 

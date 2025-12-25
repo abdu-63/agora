@@ -9,7 +9,7 @@ nav_order: 12
 ## Telegram
 
 *Android*
-- [Magic Brawl | Retro Brawl](https://t.me/magics_servers)
+- [Magic Brawl Retro Brawl](https://t.me/magics_servers)
   - [English](https://t.me/magics_en)
 - [EspacioAPK](https://t.me/espacioapk)
 - [GM Brawl](https://t.me/gmbrawl) 
@@ -120,7 +120,7 @@ nav_order: 12
 - [Kevin Alavik](https://x.com/pufferisadev)
 - [MiRO](https://x.com/MiRO92)
 - [Mr. Creator](https://x.com/MrCreator1)
-- [Nasser | NoTimeToChill](https://x.com/nowesr1)
+- [Nasser NoTimeToChill](https://x.com/nowesr1)
 - [Nathan](https://x.com/dedbeddedbed)
 - [NoisyFlake](https://x.com/NoisyFlake)
 - [Ny4aa](https://x.com/Nyaaaaa_ovo)

@@ -7,4 +7,4 @@ nav_order: 4
 ---
 
 # ChatGPT PDF
-https://www.chatpdf.com/fr
+[ChatPDF](https://www.chatpdf.com/fr)

@@ -3,7 +3,7 @@ layout: default
 title: Torrentio
 parent: Stremio
 grand_parent: Divertissement
-nav_order: 4
+nav_order: 5
 ---
 
 # Addon Torrentio pour les films et séries

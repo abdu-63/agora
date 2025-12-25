@@ -11,10 +11,10 @@ Sûr:
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [DODI Repacks](https://dodi-repacks.site/)
 - [SteamRip](https://steamrip.com/)
-- [Empress](https://telegra.ph/Empress-Biography-07-15)
-Telegram Empress : https://t.me/empressrevolution
+- [Empress](https://telegra.ph/Empress-Biography-07-15) <br>
+Telegram Empress : [EmpressRevolution](https://t.me/empressrevolution)
 
-Non sûr (pas recommandé) :warning::
+Non sûr (pas recommandé)
 - [SKIDROW & RELOADED](https://www.skidrowreloaded.com/)
 - [IGG Games](https://igg-games.com/)
 - [PC Gamers Torrents](https://pcgamestorrents.com/)
