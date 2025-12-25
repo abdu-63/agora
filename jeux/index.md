@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jeux
-nav_order: 7
+nav_order: 1
 has_children: true
 permalink: /jeux/
 ---
