@@ -19,12 +19,12 @@ Alternative moins complète mais toujours viable : [iplogger.org](http://iplogge
   
 Le DDos :
 Le 2e site :
-[https://www.stressthem.to/](https://www.stressthem.to/)
-Des nouveaux parce que je suis gentil
-[https://str3ssed.co/freestresser.php](https://str3ssed.co/freestresser.php)
-[https://instant-stresser.com/#Pricing](https://instant-stresser.com/#Pricing)
-[https://stresser.app/](https://stresser.app/)
-[https://stresslab.sx/](https://stresslab.sx/)
+[https://www.stressthem.to/](https://www.stressthem.to/)<br>
+Des nouveaux parce que je suis gentil<br>
+[https://str3ssed.co/freestresser.php](https://str3ssed.co/freestresser.php)<br>
+[https://instant-stresser.com/#Pricing](https://instant-stresser.com/#Pricing)<br>
+[https://stresser.app/](https://stresser.app/)<br>
+[https://stresslab.sx/](https://stresslab.sx/)<br>
 Pour DDoS, c'est en 2 temps : Lancer un ping via le CMD pour connaître l'état de la connexion puis DDoS.
 Le ping nous dira plus tard si le DDoS a fonctionné.
 Pour ping, ouvrir le CMD taper la commande :
