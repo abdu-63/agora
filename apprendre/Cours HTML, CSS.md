@@ -36,14 +36,14 @@ nav_order: 3
 `<h1>` jusqu'à `<h6>` : Titres<br>
 `<title>` : titre de la page<br>
 `<p>` : paragraphe<br>
-***Bloc***
+***Bloc*** <br>
 	`<div>` : balise entière (largeur)<br>
 	`<span>` : uniquement la balise incluse<br>
 `class` : sélectionner uniquement les balises avec un tag<br>
 	exemple : `‹p class="my-group"›This is another paragraph. ‹/p›`<br>
 
 ## Tag 
-`<center>` : centrer un texte<br>   
+`<center>` : centrer un texte
 `<br>` : saut de lignes<br>
 `<hr>` : ligne pour séparer<br>
 `<pre>` : afficher comme écrit dans le code (afficher du code)<br>
@@ -111,7 +111,7 @@ exemple :
 " : `&quot;`<br>
 ' : `&apos;`<br>
 (Espace) : `&nbsp;`<br>
-– : `&ndash;`<br>   
+– : `&ndash;`
 — : `&mdash;`<br>
 © : `&copy;`<br>
 ® : `&reg;`<br>

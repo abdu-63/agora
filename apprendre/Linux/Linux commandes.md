@@ -18,15 +18,16 @@ nav_order: 3
 `pwd` affiche le répertoire de travail<br>
 `~$`aller dans le répertoire personnel de l'utilisateur<br>
 
-| Symbole | Type de fichier                        | Description                                                                                          |
-| ------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| `d`     | répertoire                             | Un fichier utilisé pour stocker d'autres fichiers.                                                   |
-| `-`     | fichier                                | Inclut des fichiers lisibles, des fichiers images, des fichiers binaires et des fichiers compressés. |
-| `l`     | lien symbolique                        | Pointe vers un autre fichier.                                                                        |
-| `s`     | prise (socket)                         | Permet la communication entre les processus.                                                         |
-| `p`     | tuyau (pipe)                           | Permet la communication entre les processus.                                                         |
-| `b`     | fichier bloc (block file)              | Utilisé pour communiquer avec le matériel.                                                           |
-| `c`     | fichier de caractères (character file) | Utilisé pour communiquer avec le matériel.                                                           |
+| Symbole | Type de fichier | Description |
+| ------- | --------------- | ----------- |
+| `d`| répertoire | Un fichier utilisé pour stocker d'autres fichiers. |
+| `-`| fichier | Inclut des fichiers lisibles, des fichiers images, des fichiers binaires et des fichiers compressés. |
+| `l`| lien symbolique | Pointe vers un autre fichier. |
+| `s`| prise (socket) | Permet la communication entre les processus. |
+| `p`| tuyau (pipe) | Permet la communication entre les processus. |
+| `b`| fichier bloc (block file) | Utilisé pour communiquer avec le matériel. |
+| `c`| fichier de caractères (character file) | Utilisé pour communiquer avec le matériel. |
+
 ## Accès administratif
 Pour se login<br>
 `su -`<br>
@@ -67,6 +68,7 @@ tableau avec `egrep`<br>
 | `{ }`                    | Spécifier correspondances minimum, maximum ou exactes du motif précédent |
 | `\|`                     | Alternance - un "ou" logique                                             |
 | `( )`                    | Utilisé pour créer des groupes                                           |
+
 ## Arrêt
 `shutdown` `now` arrêter la machine maintenant<br>
 ## Configuration réseau
@@ -109,6 +111,7 @@ Nécessite souvent un accès admin<br>
 |`b`|Un mot en arrière|
 |`^`|Début de ligne|
 |`$`|Fin de ligne|
+
 `>` écraser un texte par un autre dans un fichier<br>
 `>>` ajouter un nouveau texte après un autre dans un fichier<br>
 
