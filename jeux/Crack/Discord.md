@@ -3,7 +3,7 @@ layout: default
 title: Discord
 parent: Crack
 grand_parent: Jeux
-nav_order: 5
+nav_order: 4
 ---
 
 # Discord

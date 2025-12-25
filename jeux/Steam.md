@@ -2,7 +2,7 @@
 layout: default
 title: Steam
 parent: Jeux
-nav_order: 5
+nav_order: 4
 ---
 
 # Retirer la fenêtre de pub à l'ouverture de Steam
