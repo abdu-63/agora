@@ -12,14 +12,12 @@ nav_order: 3
 <!DOCTYPE html>  
 <html>  
 <head>
-  <meta charset="UTF-8">
-  <title>Titre de ma page</title>
+    <meta charset="UTF-8">
+    <title>Titre de ma page</title>
 </head>
 <body>  
-  
-<h1>Mon premier titre</h1>  
-<p>Mon premier paragraphe.</p>  
-  
+    <h1>Mon premier titre</h1>  
+    <p>Mon premier paragraphe.</p>  
 </body>  
 </html>
 ```
