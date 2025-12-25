@@ -80,7 +80,7 @@ nav_order: 5
 - [Santander](https://github.com/NSAntoine/Santander)
 - [Scarlet](https://usescarlet.com/)
 - [Senumy](https://senumy.com/)
-- TrollBoard
+- [TrollBoard](https://github.com/haxi0/TrollBoard)
 - [TrollLock](https://github.com/haxi0/TrollLock-Reborn)
 - [TrollStore](https://github.com/opa334/TrollStore/)
 - [TrollStoreGameSeagull](https://github.com/donato-fiore/TrollStoreGameSeagull)

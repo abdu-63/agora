@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stremio c'est quoi ?
+title: Stremio c'est quoi
 parent: Stremio
 grand_parent: Divertissement
 nav_order: 3

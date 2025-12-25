@@ -27,9 +27,9 @@ nav_order: 5
 [Obsidian Snow](http://obsidiansnow.net/)<br>
 [hekatstation](http://hekatestation.net/)<br>
 [TheGame23Mod42dot5](https://www.reddit.com/r/TheGame23Mod42dot5/)<br>
-https://thedeathclock.org/<br>
+[TheDeathClock](https://thedeathclock.org/)<br>
 [INSECAM](http://insecam.com/)<br>
-KEKMA.NET<br>
+[KEKMA.NET](https://kekma.net)<br>
 [Galdrux](https://galdrux.com/)
 
 ## Autres
