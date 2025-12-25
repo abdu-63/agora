@@ -14,7 +14,7 @@ Pour attraper l'IP, il suffit de - prendre le lien d'une page que vous voulez en
 - encore raccourcir avec un service de type bit.ly ou autre pour rendre "légit",
 - Envoyer le lien final à votre "ami testeur".
 L'IP est loggée dans le dashboard.
-Le 1er site en question : [https://grabify.link/](https://grabify.link/)
+Le 1er site en question : [https://grabify.link/](https://grabify.link/)<br>
 Alternative moins complète mais toujours viable : [iplogger.org](http://iplogger.org/)
   
 Le DDos :
