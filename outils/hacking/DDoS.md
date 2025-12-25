@@ -32,10 +32,10 @@ ping [IP] -t -l 60000
 exemple : ping 69.420.93.667 -t -l 60000
 Cela va envoyer une requête toutes les secondes pour voir si la connexion de la "victime" est encore active.
 Ca passe par votre IP (donc VPN souhaité dans le cas d'une "simulation d'attaque poussée"). <br>
-![ip]({{ site.baseurl }}/assets/images/ip.png){: width="300px"}
+![ip]({{ site.baseurl }}/assets/images/ip.png){: width="300px"}<br>
 Pour DDoS : s'inscrire sur le 2e site (lien ci-dessus).
 Aller dans Booter Panel et remplir comme suit avec l'IP désirée : <br>
-![Booter Panel]({{ site.baseurl }}/assets/images/booter_panel.png){: width="300px"}
+![Booter Panel]({{ site.baseurl }}/assets/images/booter_panel.png){: width="300px"}<br>
 Puis "Start Attack".
 Le ping affiche maintenant que la connexion n'est plus disponible :<br>
-![ip 2]({{ site.baseurl }}/assets/images/ip_2.png){: width="300px"}
+![ip 2]({{ site.baseurl }}/assets/images/ip_2.png){: width="300px"}<br>
