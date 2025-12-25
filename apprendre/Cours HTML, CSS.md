@@ -133,7 +133,7 @@ Changer le style de la class "my-group"<br>
 exemple : 
 ```css
 .my-group {
-background-color: red;
+    background-color: red;
 }
 ```
 
