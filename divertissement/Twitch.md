@@ -12,7 +12,7 @@ nav_order: 8
 3. Aller sur l’onglet extension chrome://extensions/
 4. Activer le mode développeur dans l’onglet extension (en haut a droite)
 5. Empaqueter l'extension et choisir le dossier associé (voir l'image)
-![Empaqueter](Empaqueter_lextension.png)
+![Empaqueter]({{ site.baseurl }}/assets/images/empaqueter_lextension.png){: width="300px"}
 6. Envoyé le fichier .crx crée dans l’onglet extension
 
 ### Script (uBlock Origin)

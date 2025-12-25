@@ -11,4 +11,4 @@ nav_order: 14
 3. Sélectionner les dates dans le calendrier
 4. 1 escale max
 5.  Sélectionner le calendrier en bas
-![Exemple](google-flights-pas-cher.png)
+![Exemple]({{ site.baseurl }}/assets/images/google-flights-pas-cher.png){: width="300px"}
