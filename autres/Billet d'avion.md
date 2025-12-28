@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Billet d'avion
-parent: Outils
-nav_order: 14
+parent: Autres
+nav_order: 3
 ---
 
 # Billet d'avion moins cher

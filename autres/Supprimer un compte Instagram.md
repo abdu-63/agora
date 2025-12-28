@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Instagram
-parent: Outils
-nav_order: 13
+title: Supprimer un compte Instagram
+parent: Autres
+nav_order: 2
 ---
 
 # Supprimer un compte Instagram

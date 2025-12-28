@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Trouve ton PC
-parent: Outils
-nav_order: 11
+parent: Autres
+nav_order: 4
 ---
 
 # Trouve ton PC
