@@ -22,12 +22,12 @@ nav_order: 5
 1. Télécharger : Prenez le fichier `wgcf_2.2.xx_windows_amd64.exe` sur [cette page](https://github.com/ViRb3/wgcf/releases)
 2. Préparer : Créez un dossier `C:\vpn`, mettez le fichier dedans et renommez-le en `wgcf.exe`
 3. Commandes : Ouvrez l'invite de commande (`cmd`) et tapez :
-```dos
+```
 cd C:\vpn
 wgcf.exe register
 ```
 (Tapez `yes` et Entrée)
-```dos
+```
 wgcf.exe generate
 ```
 Vous avez maintenant un fichier `wgcf-profile.conf`
